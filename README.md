@@ -25,6 +25,6 @@ Halts the execution of the game
 ![](imgs/gamepaly.png)
 
 
-When you win the game all the bomb positions will be unveiled
+## When you win the game all positions of the bombs will be revealed
 
 ![](imgs/winning.PNG)

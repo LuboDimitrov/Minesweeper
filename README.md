@@ -9,8 +9,22 @@ There are a total of 10 bombs
 
 # Menu options
 
-- Obrir
-- Desar
+``1.Obrir``
+Allows you to open a saved game
+
+``2.Desar``
+Save your current game
+
+``3.Reiniciar``
+Set the board to its initial state
+
+``4.Sortir``
+Halts the execution of the game
 
 
-![](imgs/gameplay.png)
+![](imgs/gamepaly.png)
+
+
+When you win the game all the bomb positions will be unveiled
+
+![](imgs/winning.PNG)
